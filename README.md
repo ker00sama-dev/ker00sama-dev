@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirlos O. Fawzi</h1>
-<h3 align="center">I'm a C/C++/C# developer from Egypt</h3>
+<h3 align="center">I'm a PHP/C# developer from Egypt</h3>
 
 <p align="center"> 
   <a href="https://discord.com/users/488567658686447638/" rel="nofollow"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Kirlos O. Fawzi 👑#3500" data-canonical-src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="max-width:100%;"></a> 
