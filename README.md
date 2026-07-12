@@ -75,7 +75,7 @@ Laravel backend, headless Next.js 16 frontend (React 19, Tailwind CSS 4, ISR wit
 
 **SEO & web platform** — JSON-LD structured data, sitemaps, ISR with on-demand revalidation, Core Web Vitals
 
-**Ecosystem & integrations** — WHMCS module development, VirtFusion, Spatie packages, Stripe, PayPal, DodoPay, Cloudflare Turnstile, ad-network postback APIs, Discord bots & OAuth
+**Ecosystem & integrations** — WHMCS module development, VirtFusion, DHRU Fusion, SMM panels, Spatie packages, Stripe, PayPal, DodoPay, Cloudflare Turnstile, ad-network postback APIs, Discord bots & OAuth
 
 ## GitHub stats
 
