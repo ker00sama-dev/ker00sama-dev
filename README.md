@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0449C7&height=110&section=header&text=Kirlos%20Osama&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=Backend%20%E2%80%A2%20DevOps%20Engineer&descSize=14&descAlignY=78" alt="Kirlos Osama — Backend & DevOps Engineer" width="100%" />
 
 <p align="center">
-  CTO at <a href="https://www.scalebit.net/">ScaleBit Technologies</a> · Founder of <a href="https://securevm.io">SecureVM.io</a> · Owner of <a href="https://kero-dev.tech">Kero-Dev Tech</a> · Cairo, Egypt
+  Founder of <a href="https://securevm.io">SecureVM.io</a> · Owner of <a href="https://kero-dev.tech">Kero-Dev Tech</a> · Cairo, Egypt
 </p>
 
 <p align="center">
@@ -21,7 +21,6 @@
 
 I build and run web platforms end to end: Laravel backends, Next.js frontends, and the servers they live on. Most of my work is SaaS platforms, hosting infrastructure, and the WHMCS ecosystem.
 
-- **[ScaleBit Technologies](https://www.scalebit.net/)** — CTO. Managed VPS hosting, DDoS protection, and web development.
 - **[SecureVM.io](https://securevm.io)** — Founder. VPS and dedicated servers for the Arab market, on our own hardware.
 - **[Kero-Dev Tech](https://kero-dev.tech)** — Owner. My development agency and the home of my freelance work.
 - **WKS LTD** — Senior Software Engineer.
