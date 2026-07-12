@@ -11,6 +11,8 @@
   <a href="https://wa.me/201210447189"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://t.me/kerodev"><img src="https://img.shields.io/badge/Telegram-%40kerodev-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://discord.com/users/488567658686447638"><img src="https://img.shields.io/badge/Discord-ker00sama-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://www.instagram.com/Kero_Dev/"><img src="https://img.shields.io/badge/Instagram-Kero__Dev-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.facebook.com/KeroDev.Tech"><img src="https://img.shields.io/badge/Facebook-KeroDev.Tech-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
 ---
