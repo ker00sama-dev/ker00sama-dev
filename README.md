@@ -65,6 +65,8 @@ Laravel backend, headless Next.js 16 frontend (React 19, Tailwind CSS 4, ISR wit
 
 **Desktop** — Electron, C# Windows applications
 
+**Other languages** — Lua, C/C++
+
 **Databases & search** — MySQL, PostgreSQL, MongoDB, Redis, Meilisearch
 
 **Infrastructure & DevOps** — Docker, Nginx, OpenResty/Lua, Linux, CI/CD, GitHub Actions, AWS, Azure, DigitalOcean, Hetzner, Cloudflare Workers & Pages, self-owned dedicated servers
