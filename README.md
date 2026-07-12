@@ -1,15 +1,9 @@
-<!-- Kirlos Osama — Senior Software Engineer | Laravel & Next.js Expert | DevOps | Cairo, Egypt -->
+<h1 align="center">Hey, I'm Kirlos Osama 👋</h1>
 
-<h1 align="center">Kirlos Osama</h1>
-
-<h3 align="center">Senior Software Engineer · Backend & DevOps · SaaS Architect</h3>
+<h3 align="center">Backend & DevOps Engineer from Cairo, Egypt</h3>
 
 <p align="center">
-  <b>CTO @ <a href="https://www.scalebit.net/">ScaleBit Technologies</a> · Founder @ <a href="https://securevm.io">SecureVM.io</a> · Owner @ <a href="https://kero-dev.tech">Kero-Dev Tech</a> · Senior Software Engineer @ WKS LTD</b>
-</p>
-
-<p align="center">
-  Laravel · PHP 8.3+ · Next.js / TypeScript · DevOps & Infrastructure · Multi-Tenant SaaS · WHMCS Ecosystem
+  CTO at <a href="https://www.scalebit.net/">ScaleBit Technologies</a> · Founder of <a href="https://securevm.io">SecureVM.io</a> · Owner of <a href="https://kero-dev.tech">Kero-Dev Tech</a>
 </p>
 
 <p align="center">
@@ -22,98 +16,88 @@
 
 ---
 
-## 👋 About Me
+## About me
 
-I'm **Kirlos Osama**, a senior software engineer based in **Cairo, Egypt**, specializing in **backend development, SaaS platforms, hosting infrastructure, and DevOps**. I build and operate production systems end-to-end — from Laravel APIs and Next.js frontends to the Linux servers, Docker pipelines, and DDoS protection they run on.
+I've been building and running web platforms for years — mostly Laravel backends, Next.js frontends, and the servers underneath them. I like owning the whole thing: the code, the database, the deployment, and the box it runs on.
 
-- 🏢 **CTO** at [ScaleBit Technologies](https://www.scalebit.net/) — enterprise security & infrastructure (managed VPS, DDoS protection, web development)
-- 🚀 **Founder** of [SecureVM.io](https://securevm.io) — VPS & dedicated server hosting for the Arab market, running on self-owned servers
-- 🛠️ **Owner** of [Kero-Dev Tech](https://kero-dev.tech) — hosting & custom application development agency
-- 💼 **Senior Software Engineer** at WKS LTD; previously Senior Backend Engineer at MagicalGap
-- 🌍 Available for **freelance projects worldwide** — full-stack SaaS, WHMCS modules, ad-tech platforms, and infrastructure
+Right now I split my time between a few things:
 
-📫 **Contact:** [kero@kero-dev.tech](mailto:kero@kero-dev.tech) · 📱 +20 121 044 7189 · 🌐 [kero-dev.tech](https://kero-dev.tech)
+- **[ScaleBit Technologies](https://www.scalebit.net/)** — I'm the CTO. We do managed VPS hosting, DDoS protection, and web development.
+- **[SecureVM.io](https://securevm.io)** — my hosting company. VPS and dedicated servers for the Arab market, running on hardware we own.
+- **[Kero-Dev Tech](https://kero-dev.tech)** — my dev agency, where all my freelance and client work lives.
+- **WKS LTD** — senior software engineer on their agency and distribution projects.
 
----
-
-## 🏆 Flagship Project — KooAds Advertising Platform
-
-An **ad monetization (offerwall) platform** connecting publishers and advertisers, delivered end-to-end for a large company. I was the primary developer of the entire platform: API, admin panel, blog/CMS, documentation, and public website.
-
-- **Laravel** backend with a headless **Next.js 16** marketing frontend (React 19, Tailwind CSS 4, Framer Motion, ISR with on-demand revalidation)
-- **PostgreSQL** tuning, hosting setup, and **Meilisearch** full-text search integration
-- Full **SEO pipeline**: metadata, JSON-LD structured data, sitemaps, and an `llms.txt` route for AI crawlers
+I take on freelance work too. If you need a Laravel/Next.js platform built, a WHMCS module, or someone to sort out your servers, email me at [kero@kero-dev.tech](mailto:kero@kero-dev.tech) or call +20 121 044 7189.
 
 ---
 
-## 🚀 Products & Platforms I Own
+## KooAds — the biggest thing I've shipped
+
+KooAds is an ad monetization platform (offerwall) that connects publishers with advertisers. A large company hired me to build it, and I wrote pretty much all of it myself: the API, the admin panel, the blog/CMS, the docs, and the public site.
+
+The backend is Laravel, the marketing site is headless Next.js 16 (React 19, Tailwind 4, ISR with on-demand revalidation). I also handled the PostgreSQL setup, Meilisearch integration, and the whole SEO side — structured data, sitemaps, even an `llms.txt` route for AI crawlers.
+
+---
+
+## Things I've built and sell
 
 | Product | What it is |
 |---|---|
-| **[SecureVM.io](https://securevm.io)** | VPS & dedicated server hosting for the Arab market — WHMCS-powered, self-owned servers |
-| **[Kero-Dev.tech](https://kero-dev.tech)** | Hosting & custom application development agency — the storefront for all my work |
-| **Cointo** ([demo](https://cointo.kero-dev.tech/earn)) | Commercial GPT / offerwall & rewards script built on Laravel, sold via WHMCS |
-| **EnvKit** | Local development stack manager for Windows — Electron, React, Tailwind CSS |
-| **DodoPay Gateway** | WHMCS payment gateway module on the official Marketplace — subscription lifecycle, HMAC webhooks, PHP 8.1 strict typing |
-| **Discord SSO** | WHMCS module for OAuth2 login, account linking, and Discord role synchronization |
+| **[SecureVM.io](https://securevm.io)** | VPS & dedicated server hosting on WHMCS, running on our own servers |
+| **Cointo** ([demo](https://cointo.kero-dev.tech/earn)) | A GPT/offerwall rewards script built on Laravel, sold through WHMCS |
+| **EnvKit** | A local dev stack manager for Windows, built with Electron + React |
+| **DodoPay Gateway** | WHMCS payment gateway module, published on the official Marketplace |
+| **Discord SSO** | WHMCS module for Discord OAuth2 login and role sync |
 
-## 💼 Selected Client Work
+## Client work I can talk about
 
 | Project | Details |
 |---|---|
-| **[Auto Computer Trading](https://autocomputertrading.com)** | Product catalog for a Dubai ECM/PCM/TCM supplier — Laravel 12, Livewire 4, Filament v5, Meilisearch |
-| **[Daftar Zain](https://daftarzain.com)** | IFRS-compliant multi-company financial ERP SaaS — Filament Teams multi-tenancy, live in production |
-| **[AdPlusMedia](https://adplusmedia.com)** | CPA / affiliate marketing network with content locker |
-| **[AdSpiritMedia](https://adspiritmedia.com)** / **[AdHopeMedia](https://adhopemedia.com)** | Performance marketing networks with TypeScript offerwalls |
-| **[Porix](https://porix.org)** / **[CoinZelo](https://coinzelo.com)** / **[EarnG](https://earng.net)** | GPT (Get Paid To) reward platforms in production |
-| **[MegaPower](https://mega-power.net)** / **[Axial Trading](https://axial-trading.com)** | Corporate websites for Egyptian manufacturers & industrial suppliers |
-| **MENA Music Summit · Nile ([nogoum.app](https://nogoum.app))** | Backend development delivered through WKS LTD |
+| **[Auto Computer Trading](https://autocomputertrading.com)** | Product catalog for a Dubai auto-parts supplier — Laravel 12, Livewire 4, Filament v5, Meilisearch |
+| **[Daftar Zain](https://daftarzain.com)** | Multi-company accounting ERP (IFRS-compliant), live in production |
+| **[AdPlusMedia](https://adplusmedia.com)** | CPA/affiliate network with a content locker |
+| **[AdSpiritMedia](https://adspiritmedia.com)** & **[AdHopeMedia](https://adhopemedia.com)** | Performance marketing networks with TypeScript offerwalls |
+| **[Porix](https://porix.org)**, **[CoinZelo](https://coinzelo.com)**, **[EarnG](https://earng.net)** | Get-Paid-To reward platforms in production |
+| **[MegaPower](https://mega-power.net)** & **[Axial Trading](https://axial-trading.com)** | Corporate sites for Egyptian manufacturers |
+| **MENA Music Summit**, **Nile ([nogoum.app](https://nogoum.app))** | Backend work through WKS LTD |
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## What I work with
 
-**Languages:** PHP 8.3+ · JavaScript / TypeScript · C# · SQL · Lua · C/C++ (working knowledge)
+**Backend:** PHP 8.3+, Laravel 11–13, Node.js, REST APIs, multi-tenant SaaS, queues, event-driven stuff
 
-**Backend:** Laravel 11–13 · REST APIs · Microservices · Domain-Driven Design · Multi-Tenancy (row-level & schema) · Queue Workers · Event-Driven Architecture · Node.js
+**Frontend:** Next.js / React, Livewire, Filament, Inertia, Tailwind CSS
 
-**Frontend:** Next.js 16 / React 19 · Livewire 3/4 · Filament v5 · Inertia.js · Alpine.js · Tailwind CSS 4 · Framer Motion
+**Databases:** MySQL, PostgreSQL, MongoDB, Redis, Meilisearch
 
-**Databases & Search:** MySQL · PostgreSQL · MongoDB · Redis · Meilisearch
+**Infra & DevOps:** Docker, Nginx, OpenResty/Lua, Linux, GitHub Actions, AWS, Hetzner, Cloudflare — plus our own dedicated servers
 
-**DevOps & Infrastructure:** Docker & Docker Compose · Nginx · OpenResty/Lua · Linux (Ubuntu/Debian) · CI/CD · GitHub Actions · AWS · Azure · DigitalOcean · Hetzner · Cloudflare Workers & Pages · self-owned dedicated servers
+**Security:** L4/L7 DDoS mitigation, WAF rules, iptables/sysctl hardening, OAuth2, fraud detection for reward/postback systems
 
-**Security & Performance:** Anti-DDoS (L4/L7) · WAF rules · iptables & sysctl hardening · OAuth2 · HMAC verification · fraud detection for reward/postback systems
-
-**SEO & Web Platform:** Metadata pipelines · JSON-LD structured data · sitemaps · ISR / on-demand revalidation · Core Web Vitals
-
-**Ecosystem:** WHMCS module development · VirtFusion · Spatie packages · Stripe · PayPal · Cloudflare Turnstile · Discord bots & OAuth · ad-network postback APIs
+**Also:** WHMCS module development, C# desktop apps, Stripe/PayPal integrations, Discord bots
 
 ---
 
-## ❓ FAQ
+## Quick answers
 
-**Who is Kirlos Osama?**
-A senior software engineer and entrepreneur from Cairo, Egypt — CTO of ScaleBit Technologies, founder of SecureVM.io, and owner of the Kero-Dev Tech development agency.
+**Who is Kirlos Osama?** A backend and DevOps engineer from Cairo, Egypt. CTO at ScaleBit Technologies, founder of SecureVM.io, and owner of the Kero-Dev Tech agency.
 
-**What services does Kirlos Osama offer?**
-Full-stack SaaS development (Laravel + Next.js), WHMCS module development, hosting & server infrastructure, DevOps automation, DDoS protection, and ad-tech / offerwall platform development.
+**What do I do?** I build SaaS platforms with Laravel and Next.js, develop WHMCS modules, and run hosting infrastructure — from the app code down to the servers.
 
-**How can I hire Kirlos Osama?**
-Email [kero@kero-dev.tech](mailto:kero@kero-dev.tech), visit [kero-dev.tech](https://kero-dev.tech), or open a ticket at the client portal [my.kero-dev.tech](https://my.kero-dev.tech).
+**How do you hire me?** Email [kero@kero-dev.tech](mailto:kero@kero-dev.tech), go through [kero-dev.tech](https://kero-dev.tech), or open a ticket at [my.kero-dev.tech](https://my.kero-dev.tech).
 
 ---
 
-## 📊 GitHub Stats
+## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ker00sama-dev&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Kirlos Osama GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ker00sama-dev&theme=tokyonight" alt="Kirlos Osama GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ker00sama-dev&theme=tokyonight" alt="Top languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ker00sama-dev&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages used by Kirlos Osama" />
+  <img src="https://streak-stats.demolab.com?user=ker00sama-dev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ker00sama-dev&label=Profile%20views&color=0449C7&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <i>Kirlos Osama — Laravel developer, Next.js developer, DevOps engineer, and SaaS architect in Cairo, Egypt. Open to freelance and contract work worldwide.</i>
 </p>
