@@ -59,45 +59,17 @@ Laravel backend, headless Next.js 16 frontend (React 19, Tailwind CSS 4, ISR wit
 
 ## Tech stack
 
-**Backend**
+**Backend** — PHP, Laravel, Node.js, REST APIs, microservices, multi-tenant SaaS
 
-![PHP](https://img.shields.io/badge/PHP_8.3+-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel_11--13-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-0449C7?style=flat-square&logo=stackshare&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0449C7?style=flat-square&logo=openapiinitiative&logoColor=white)
-![Multi-tenant SaaS](https://img.shields.io/badge/Multi--tenant_SaaS-0449C7?style=flat-square&logo=awsorganizations&logoColor=white)
+**Frontend** — Next.js, React, TypeScript, Livewire, Filament, Tailwind CSS
 
-**Frontend**
+**Databases & search** — MySQL, PostgreSQL, MongoDB, Redis, Meilisearch
 
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament_v5-FDAE4B?style=flat-square&logo=filament&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**Infrastructure & DevOps** — Docker, Nginx, Linux, GitHub Actions, AWS, Cloudflare, Hetzner
 
-**Databases & search**
+**Security** — L4/L7 DDoS mitigation, WAF rules, iptables and sysctl hardening, OAuth2, fraud detection for reward/postback systems
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![Meilisearch](https://img.shields.io/badge/Meilisearch-FF5CAA?style=flat-square&logo=meilisearch&logoColor=white)
-
-**Infrastructure & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
-
-**Security**
-
-L4/L7 DDoS mitigation, WAF rules, iptables and sysctl hardening, OAuth2, and fraud detection for reward/postback systems. Also: WHMCS module development, C# desktop applications, Stripe/PayPal integrations, and Discord bots.
+Also: WHMCS module development, C# desktop applications, Stripe/PayPal integrations, and Discord bots.
 
 ## GitHub stats
 
@@ -106,5 +78,10 @@ L4/L7 DDoS mitigation, WAF rules, iptables and sysctl hardening, OAuth2, and fra
 </p>
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ker00sama-dev&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ker00sama-dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ker00sama-dev&label=Profile%20views&color=0449C7&style=flat" alt="Profile views" />
 </p>
