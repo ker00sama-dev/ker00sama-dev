@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0449C7&height=150&section=header&text=Kirlos%20Osama&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Backend%20%26%20DevOps%20Engineer&descSize=18&descAlignY=75" alt="Kirlos Osama — Backend & DevOps Engineer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0449C7&height=150&section=header&text=Kirlos%20Osama&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Backend%20%E2%80%A2%20DevOps%20Engineer&descSize=18&descAlignY=75" alt="Kirlos Osama — Backend & DevOps Engineer" width="100%" />
 
 <h3 align="center">Backend & DevOps Engineer from Cairo, Egypt 🇪🇬</h3>
 
