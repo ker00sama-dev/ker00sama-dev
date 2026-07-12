@@ -59,17 +59,21 @@ Laravel backend, headless Next.js 16 frontend (React 19, Tailwind CSS 4, ISR wit
 
 ## Tech stack
 
-**Backend** — PHP, Laravel, Node.js, REST APIs, microservices, multi-tenant SaaS
+**Backend** — PHP, Laravel, Node.js, REST APIs, microservices, multi-tenant SaaS, queue workers, event-driven architecture, domain-driven design
 
-**Frontend** — Next.js, React, TypeScript, Livewire, Filament, Tailwind CSS
+**Frontend** — Next.js, React, TypeScript, Inertia.js, Livewire, Filament, Alpine.js, Tailwind CSS, Framer Motion
+
+**Desktop** — Electron, C# Windows applications
 
 **Databases & search** — MySQL, PostgreSQL, MongoDB, Redis, Meilisearch
 
-**Infrastructure & DevOps** — Docker, Nginx, Linux, GitHub Actions, AWS, Cloudflare, Hetzner
+**Infrastructure & DevOps** — Docker, Nginx, OpenResty/Lua, Linux, CI/CD, GitHub Actions, AWS, Azure, DigitalOcean, Hetzner, Cloudflare Workers & Pages, self-owned dedicated servers
 
-**Security** — L4/L7 DDoS mitigation, WAF rules, iptables and sysctl hardening, OAuth2, fraud detection for reward/postback systems
+**Security** — L4/L7 DDoS mitigation, WAF rules, iptables and sysctl hardening, rate limiting, OAuth2, HMAC-verified webhooks, fraud detection for reward/postback systems
 
-Also: WHMCS module development, C# desktop applications, Stripe/PayPal integrations, and Discord bots.
+**SEO & web platform** — JSON-LD structured data, sitemaps, ISR with on-demand revalidation, Core Web Vitals
+
+**Ecosystem & integrations** — WHMCS module development, VirtFusion, Spatie packages, Stripe, PayPal, DodoPay, Cloudflare Turnstile, ad-network postback APIs, Discord bots & OAuth
 
 ## GitHub stats
 
