@@ -53,7 +53,6 @@ Laravel backend, headless Next.js 16 frontend (React 19, Tailwind CSS 4, ISR wit
 |---|---|
 | [Auto Computer Trading](https://autocomputertrading.com) | Product catalog for a Dubai auto-parts supplier — Laravel 12, Livewire 4, Filament v5, Meilisearch |
 | [Daftar Zain](https://daftarzain.com) | Multi-company accounting ERP (IFRS-compliant), in production |
-| [AdPlusMedia](https://adplusmedia.com) | CPA/affiliate network with a content locker |
 | [AdSpiritMedia](https://adspiritmedia.com) · [AdHopeMedia](https://adhopemedia.com) | Performance marketing networks with TypeScript offerwalls |
 | [Porix](https://porix.org) · [CoinZelo](https://coinzelo.com) · [EarnG](https://earng.net) | Get-Paid-To reward platforms in production |
 | [MegaPower](https://mega-power.net) · [Axial Trading](https://axial-trading.com) | Corporate websites for Egyptian manufacturers |
