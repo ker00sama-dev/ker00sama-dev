@@ -77,17 +77,7 @@ Laravel backend, headless Next.js 16 frontend (React 19, Tailwind CSS 4, ISR wit
 
 **Ecosystem & integrations** — WHMCS module development, VirtFusion, DHRU Fusion, SMM panels, Spatie packages, Stripe, PayPal, DodoPay, Cloudflare Turnstile, ad-network postback APIs, Discord bots & OAuth
 
-## GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ker00sama-dev&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Kirlos Osama GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ker00sama-dev&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ker00sama-dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
-</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ker00sama-dev&label=Profile%20views&color=0449C7&style=flat" alt="Profile views" />
 </p>
