@@ -22,7 +22,9 @@
 
 Software engineer building web platforms end to end: Laravel backends, Next.js frontends, and the servers they run on. Most of my work is SaaS products, cloud hosting, DDoS protection, and the WHMCS ecosystem.
 
-- **[ScaleBit](https://www.scalebit.net)** — software development, cloud and security. Building Evorxa, GGProtect and ScaleBit Resilience.
+> Anything works on a quiet Tuesday. We build for the bad night — the traffic spike, the failed node, the attack nobody scheduled. That is the only test that counts.
+
+- **[ScaleBit](https://www.scalebit.net)** — Co-Founder & Technical Lead. Software development, cloud and security: Evorxa, GGProtect and ScaleBit Resilience.
 - **WKS LTD** — Senior Software Engineer.
 - **[Kero-Dev Tech](https://kero-dev.tech)** — where my freelance and product work lives.
 
