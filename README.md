@@ -28,7 +28,7 @@ Software engineer building web platforms end to end: Laravel backends, Next.js f
 
 Open to freelance projects — [email](mailto:kero@kero-dev.tech), [WhatsApp](https://wa.me/201210447189), or [Telegram](https://t.me/kerodev). Full profile and portfolio at [kero-dev.tech/en/me](https://kero-dev.tech/en/me).
 
-## Currently building
+## Shipped
 
 - **[Evorxa](https://evorxa.com)** — public cloud for VPS and VDS servers with NVMe storage and Shield DDoS protection. An AI agent manages servers over Telegram or the dashboard. Comes with a Flutter mobile app and white-label reseller modules for [WHMCS](https://github.com/ScaleBit-Technologies/evorxa-whmcs) and [Paymenter](https://github.com/ScaleBit-Technologies/evorxa-paymenter).
 - **GGProtect** — enterprise web application firewall filtering hostile traffic at the edge across 34 regions, with Lua on OpenResty. A [ScaleBit](https://www.scalebit.net) project owned by Ali Eid; I contribute alongside him.
