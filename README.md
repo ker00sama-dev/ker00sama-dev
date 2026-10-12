@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://kero-dev.tech/en/me"><img src="https://img.shields.io/badge/About%20me-kero--dev.tech%2Fen%2Fme-0449C7?style=flat-square&logo=googlechrome&logoColor=white" alt="About me"></a>
   <a href="https://kero-dev.tech"><img src="https://img.shields.io/badge/Website-kero--dev.tech-0449C7?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="mailto:kero@kero-dev.tech"><img src="https://img.shields.io/badge/Email-kero%40kero--dev.tech-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/ker00sama/"><img src="https://img.shields.io/badge/LinkedIn-ker00sama-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -25,7 +26,7 @@ Software engineer building web platforms end to end: Laravel backends, Next.js f
 - **WKS LTD** — Senior Software Engineer.
 - **[Kero-Dev Tech](https://kero-dev.tech)** — where my freelance and product work lives.
 
-Open to freelance projects — [email](mailto:kero@kero-dev.tech), [WhatsApp](https://wa.me/201210447189), or [Telegram](https://t.me/kerodev).
+Open to freelance projects — [email](mailto:kero@kero-dev.tech), [WhatsApp](https://wa.me/201210447189), or [Telegram](https://t.me/kerodev). Full profile and portfolio at [kero-dev.tech/en/me](https://kero-dev.tech/en/me).
 
 ## Currently building
 
