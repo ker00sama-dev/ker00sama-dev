@@ -1,7 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0449C7&height=110&section=header&text=Kirlos%20Osama&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer&descSize=14&descAlignY=78" alt="Kirlos Osama — Software Engineer" width="100%" />
 
+# Kirlos Osama — Software Engineer
+
+Kirlos Osama is a software engineer who builds and runs web platforms end to end: Laravel and PHP backends, Next.js and React frontends, WHMCS modules, and the Linux infrastructure they run on. Co-Founder & Technical Lead at [ScaleBit](https://www.scalebit.net), Co-Founder of [Evorxa](https://evorxa.com) cloud hosting, and creator of [EnvKit](https://envkit.net/), a free local development environment for Windows and macOS. Available for freelance work through [Kero-Dev Tech](https://kero-dev.tech).
+
 <p align="center">
-  Software Engineer
+  Software Engineer · Laravel · Next.js · WHMCS · Cloud & DDoS protection
 </p>
 
 <p align="center">
@@ -17,6 +21,29 @@
 </p>
 
 ---
+
+## At a glance
+
+| | |
+|---|---|
+| **Name** | Kirlos Osama (GitHub: [ker00sama-dev](https://github.com/ker00sama-dev)) |
+| **Role** | Software Engineer. Co-Founder & Technical Lead at ScaleBit, Co-Founder of Evorxa, founder of EnvKit |
+| **Core stack** | PHP, Laravel, Livewire, Filament, Next.js, React, TypeScript, Tailwind CSS, Electron, Flutter |
+| **Infrastructure** | Docker, Nginx, OpenResty/Lua, Linux, GitHub Actions, AWS, Azure, Hetzner, Cloudflare |
+| **Specialties** | SaaS platforms, offerwall and reward systems, WHMCS and Paymenter modules, VPS hosting, DDoS mitigation |
+| **Availability** | Open to freelance projects |
+| **Portfolio** | [kero-dev.tech/en/me](https://kero-dev.tech/en/me) · [all projects](https://kero-dev.tech/en/projects) |
+
+## Contact
+
+- Email: [kero@kero-dev.tech](mailto:kero@kero-dev.tech)
+- Website: [kero-dev.tech](https://kero-dev.tech)
+- LinkedIn: [linkedin.com/in/ker00sama](https://www.linkedin.com/in/ker00sama/)
+- Telegram: [@kerodev](https://t.me/kerodev)
+- WhatsApp: [+20 121 044 7189](https://wa.me/201210447189)
+- Discord: ker00sama
+- Instagram: [@Kero_Dev](https://www.instagram.com/Kero_Dev/)
+- Facebook: [KeroDev.Tech](https://www.facebook.com/KeroDev.Tech)
 
 ## About
 
@@ -81,6 +108,23 @@ Full project list with tech stacks at [kero-dev.tech/en/projects](https://kero-d
 | [AttendanceTracker](https://github.com/ker00sama-dev/AttendanceTracker) | Attendance tracking web app — graduation project |
 | [Axial-Trading](https://github.com/ker00sama-dev/Axial-Trading) · [frontend-mega-power](https://github.com/ker00sama-dev/frontend-mega-power) | Source for the Axial Trading and MegaPower corporate sites |
 
+## FAQ
+
+**Who is Kirlos Osama?**
+A software engineer building Laravel and Next.js platforms, WHMCS modules, and cloud hosting infrastructure. Co-Founder & Technical Lead at ScaleBit and Co-Founder of Evorxa.
+
+**What is Evorxa?**
+A public cloud for VPS and VDS servers with NVMe storage, Shield DDoS protection, and an AI agent that manages servers over Telegram or the dashboard. It succeeded SecureVM.io.
+
+**What is EnvKit?**
+A free local development environment for Windows and macOS with nginx/Apache, multiple PHP versions, MySQL/MariaDB, PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI assistants. Downloads at [envkit.net](https://envkit.net/).
+
+**What kind of work does Kirlos take on?**
+SaaS backends, offerwall and GPT reward platforms, ad networks, ERP systems, WHMCS and Paymenter modules, corporate websites, and the DevOps to run them. Contact by [email](mailto:kero@kero-dev.tech), [WhatsApp](https://wa.me/201210447189), or [Telegram](https://t.me/kerodev).
+
+**Which WHMCS modules has Kirlos built?**
+DodoPay Gateway (payment gateway on the official WHMCS Marketplace), Discord SSO (OAuth2 login and role sync), and the Evorxa reseller modules for WHMCS and Paymenter.
+
 ## Tech stack
 
 **Backend** — PHP, Laravel, Node.js, REST APIs, microservices, multi-tenant SaaS, queue workers, event-driven architecture, domain-driven design
@@ -100,6 +144,32 @@ Full project list with tech stacks at [kero-dev.tech/en/projects](https://kero-d
 **SEO & web platform** — JSON-LD structured data, sitemaps, ISR with on-demand revalidation, Core Web Vitals
 
 **Ecosystem & integrations** — WHMCS and Paymenter module development, VirtFusion, DHRU Fusion, SMM panels, Spatie packages, Stripe, PayPal, DodoPay, Cloudflare Turnstile, ad-network postback APIs, Discord bots & OAuth
+
+<!--
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Kirlos Osama",
+  "alternateName": "ker00sama",
+  "jobTitle": "Software Engineer",
+  "url": "https://kero-dev.tech/en/me",
+  "email": "mailto:kero@kero-dev.tech",
+  "sameAs": [
+    "https://github.com/ker00sama-dev",
+    "https://www.linkedin.com/in/ker00sama/",
+    "https://kero-dev.tech",
+    "https://t.me/kerodev",
+    "https://www.instagram.com/Kero_Dev/",
+    "https://www.facebook.com/KeroDev.Tech"
+  ],
+  "worksFor": [
+    {"@type": "Organization", "name": "ScaleBit", "url": "https://www.scalebit.net"},
+    {"@type": "Organization", "name": "Evorxa", "url": "https://evorxa.com"},
+    {"@type": "Organization", "name": "Kero-Dev Tech", "url": "https://kero-dev.tech"}
+  ],
+  "knowsAbout": ["PHP", "Laravel", "Next.js", "React", "TypeScript", "WHMCS", "Paymenter", "Docker", "Nginx", "OpenResty", "Linux", "DDoS mitigation", "VPS hosting", "Electron", "Flutter"]
+}
+-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ker00sama-dev&label=Profile%20views&color=0449C7&style=flat" alt="Profile views" />
