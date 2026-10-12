@@ -32,7 +32,7 @@ Open to freelance projects — [email](mailto:kero@kero-dev.tech), [WhatsApp](ht
 
 ## Shipped
 
-- **[Evorxa](https://evorxa.com)** — founder and owner, successor to SecureVM.io. Public cloud for VPS and VDS servers with NVMe storage and Shield DDoS protection. An AI agent manages servers over Telegram or the dashboard. Comes with a Flutter mobile app and white-label reseller modules for [WHMCS](https://github.com/ScaleBit-Technologies/evorxa-whmcs) and [Paymenter](https://github.com/ScaleBit-Technologies/evorxa-paymenter).
+- **[Evorxa](https://evorxa.com)** — Co-Founder, successor to SecureVM.io. Public cloud for VPS and VDS servers with NVMe storage and Shield DDoS protection. An AI agent manages servers over Telegram or the dashboard. Comes with a Flutter mobile app and white-label reseller modules for [WHMCS](https://github.com/ScaleBit-Technologies/evorxa-whmcs) and [Paymenter](https://github.com/ScaleBit-Technologies/evorxa-paymenter).
 - **GGProtect** — enterprise web application firewall filtering hostile traffic at the edge across 34 regions, with Lua on OpenResty. A [ScaleBit](https://www.scalebit.net) project owned by Ali Eid; I contribute alongside him.
 - **ScaleBit Resilience** — authorized stress testing with an auditor-ready report.
 - **[EnvKit](https://envkit.net/)** — founder and owner. Free local development environment for Windows and macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB, PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted `.test` HTTPS, and a built-in MCP server so AI assistants can drive the stack. Built with Electron and React. Downloads in the [releases repo](https://github.com/Env-Kit/envkit-releases) or via the [Homebrew tap](https://github.com/Env-Kit/homebrew-tap).
@@ -47,7 +47,7 @@ Laravel backend, headless Next.js 16 frontend (React 19, Tailwind CSS 4, ISR wit
 
 | Product | Description |
 |---|---|
-| [Evorxa](https://evorxa.com) | Founder and owner. Successor to SecureVM.io. VPS and VDS cloud hosting with Shield DDoS protection and an AI agent that manages your server |
+| [Evorxa](https://evorxa.com) | Co-Founder. Successor to SecureVM.io. VPS and VDS cloud hosting with Shield DDoS protection and an AI agent that manages your server |
 | GGProtect | Enterprise WAF across 34 regions. Owned by Ali Eid / ScaleBit; I am a contributor |
 | [EnvKit](https://envkit.net/) | Founder and owner. Local dev stack manager for Windows and macOS — [releases](https://github.com/Env-Kit/envkit-releases) |
 | Cointo ([demo](https://cointo.kero-dev.tech/earn)) | GPT/offerwall rewards script built on Laravel |
