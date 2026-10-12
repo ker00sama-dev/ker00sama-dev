@@ -47,7 +47,7 @@ Laravel backend, headless Next.js 16 frontend (React 19, Tailwind CSS 4, ISR wit
 |---|---|
 | [Evorxa](https://evorxa.com) | Founder and owner. VPS and VDS cloud hosting with Shield DDoS protection and an AI agent that manages your server |
 | GGProtect | Enterprise WAF across 34 regions. Owned by Ali Eid / ScaleBit; I am a contributor |
-| [SecureVM.io](https://securevm.io) | VPS and dedicated server hosting for the Arab market, built on WHMCS and self-managed hardware |
+| [SecureVM.io](https://securevm.io) | Co-owner. VPS and dedicated server hosting for the Arab market, built on WHMCS and self-managed hardware |
 | [EnvKit](https://envkit.net/) | Founder and owner. Local dev stack manager for Windows and macOS — [releases](https://github.com/Env-Kit/envkit-releases) |
 | Cointo ([demo](https://cointo.kero-dev.tech/earn)) | GPT/offerwall rewards script built on Laravel |
 | DodoPay Gateway | WHMCS payment gateway module, on the official Marketplace |
