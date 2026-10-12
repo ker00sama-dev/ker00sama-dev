@@ -31,7 +31,7 @@ Open to freelance projects — [email](mailto:kero@kero-dev.tech), [WhatsApp](ht
 ## Currently building
 
 - **[Evorxa](https://evorxa.com)** — public cloud for VPS and VDS servers with NVMe storage and Shield DDoS protection. An AI agent manages servers over Telegram or the dashboard. Comes with a Flutter mobile app and white-label reseller modules for [WHMCS](https://github.com/ScaleBit-Technologies/evorxa-whmcs) and [Paymenter](https://github.com/ScaleBit-Technologies/evorxa-paymenter).
-- **GGProtect** — enterprise web application firewall filtering hostile traffic at the edge across 34 regions, with Lua on OpenResty.
+- **GGProtect** — enterprise web application firewall filtering hostile traffic at the edge across 34 regions, with Lua on OpenResty. A [ScaleBit](https://www.scalebit.net) project owned by Ali Eid; I contribute alongside him.
 - **ScaleBit Resilience** — authorized stress testing with an auditor-ready report.
 - **[EnvKit](https://envkit.net/)** — free local development environment for Windows and macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB, PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted `.test` HTTPS, and a built-in MCP server so AI assistants can drive the stack. Built with Electron and React. Downloads in the [releases repo](https://github.com/Env-Kit/envkit-releases) or via the [Homebrew tap](https://github.com/Env-Kit/homebrew-tap).
 
@@ -46,7 +46,7 @@ Laravel backend, headless Next.js 16 frontend (React 19, Tailwind CSS 4, ISR wit
 | Product | Description |
 |---|---|
 | [Evorxa](https://evorxa.com) | VPS and VDS cloud hosting with Shield DDoS protection and an AI agent that manages your server |
-| GGProtect | Enterprise WAF across 34 regions |
+| GGProtect | Enterprise WAF across 34 regions. Owned by Ali Eid / ScaleBit; I am a contributor |
 | [SecureVM.io](https://securevm.io) | VPS and dedicated server hosting for the Arab market, built on WHMCS and self-managed hardware |
 | [EnvKit](https://envkit.net/) | Local dev stack manager for Windows — [releases](https://github.com/Env-Kit/envkit-releases) |
 | Cointo ([demo](https://cointo.kero-dev.tech/earn)) | GPT/offerwall rewards script built on Laravel |
