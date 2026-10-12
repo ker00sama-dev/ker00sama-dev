@@ -50,7 +50,9 @@ Laravel backend, headless Next.js 16 frontend (React 19, Tailwind CSS 4, ISR wit
 | [Evorxa](https://evorxa.com) | Co-Founder. Successor to SecureVM.io. VPS and VDS cloud hosting with Shield DDoS protection and an AI agent that manages your server |
 | GGProtect | Enterprise WAF across 34 regions. Owned by Ali Eid / ScaleBit; I am a contributor |
 | [EnvKit](https://envkit.net/) | Founder and owner. Local dev stack manager for Windows and macOS — [releases](https://github.com/Env-Kit/envkit-releases) |
-| Cointo ([demo](https://cointo.kero-dev.tech/earn)) | GPT/offerwall rewards script built on Laravel |
+| [Cointo Lite](https://kero-dev.tech/en/projects/cointo) ([demo](https://cointo.kero-dev.tech/earn)) | Commercial offerwall and rewards script on Laravel and Livewire: OGAds, CPAGrip, AdGem, OfferToro and Lootably integrations, AI-generated postbacks, referrals, XP levels, leaderboards, automated FaucetPay and Payeer withdrawals |
+| [AdNetwork](https://kero-dev.tech/en/projects/adnetwork-script) | Commercial ad-network / offerwall-network script: campaigns, postbacks, publisher payouts and fraud controls. The engine behind KooAds, AdHopeMedia, Porix, AdSpiritMedia and Pitchium |
+| [CashlyEarn](https://cashlyearn.com) | Get-paid-to platform: coins for playing games, answering surveys and trying apps, cashed out to PayPal, crypto or gift cards |
 | DodoPay Gateway | WHMCS payment gateway module, on the official Marketplace |
 | Discord SSO | WHMCS module for Discord OAuth2 login and role sync |
 
@@ -62,8 +64,14 @@ Laravel backend, headless Next.js 16 frontend (React 19, Tailwind CSS 4, ISR wit
 | [Daftar Zain](https://daftarzain.com) | Multi-company accounting ERP (IFRS-compliant), in production |
 | [AdSpiritMedia](https://adspiritmedia.com) · [AdHopeMedia](https://adhopemedia.com) | Performance marketing networks with TypeScript offerwalls |
 | [Porix](https://porix.org) · [CoinZelo](https://coinzelo.com) · [EarnG](https://earng.net) | Get-Paid-To reward platforms in production |
+| [Perkox](https://perkox.com) | Mobile monetization SDK and offerwall platform with native SDKs for Android, iOS, React Native, Flutter and Unity, real-time analytics and server-side reward validation |
+| [Pitchium](https://www.pitchium.com) | Advertising network built on the AdNetwork engine: campaigns, publisher tools and conversion tracking |
+| AffTitan | CPA / affiliate network: advertiser campaigns, publisher tracking links, postback conversion pipeline and payout management |
 | [CyberHex](https://cyberhex.io) | Corporate website for a penetration-testing firm |
 | [MegaPower](https://mega-power.net) · [Axial Trading](https://axial-trading.com) | Corporate websites for Egyptian manufacturers |
+| Travilo Egypt | Travel and tourism website for the Egyptian market: destinations, trip showcases and booking inquiries |
+
+Full project list with tech stacks at [kero-dev.tech/en/projects](https://kero-dev.tech/en/projects).
 
 ## Open source
 
