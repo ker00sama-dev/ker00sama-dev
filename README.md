@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0449C7&height=110&section=header&text=Kirlos%20Osama&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=Backend%20%E2%80%A2%20DevOps%20Engineer&descSize=14&descAlignY=78" alt="Kirlos Osama — Backend & DevOps Engineer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0449C7&height=110&section=header&text=Kirlos%20Osama&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer&descSize=14&descAlignY=78" alt="Kirlos Osama — Software Engineer" width="100%" />
 
 <p align="center">
-  Founder of <a href="https://securevm.io">SecureVM.io</a> · Owner of <a href="https://kero-dev.tech">Kero-Dev Tech</a> · Cairo, Egypt
+  Software Engineer
 </p>
 
 <p align="center">
@@ -19,13 +19,12 @@
 
 ## About
 
-I build and run web platforms end to end: Laravel backends, Next.js frontends, and the servers they live on. Most of my work is SaaS platforms, hosting infrastructure, and the WHMCS ecosystem.
+Software engineer building web platforms end to end: Laravel backends, Next.js frontends, and the servers they run on. Most of my work is SaaS products, hosting infrastructure, and the WHMCS ecosystem.
 
-- **[SecureVM.io](https://securevm.io)** — Founder. VPS and dedicated servers for the Arab market, on our own hardware.
-- **[Kero-Dev Tech](https://kero-dev.tech)** — Owner. My development agency and the home of my freelance work.
 - **WKS LTD** — Senior Software Engineer.
+- **[Kero-Dev Tech](https://kero-dev.tech)** — where my freelance and product work lives.
 
-Available for freelance projects — [email](mailto:kero@kero-dev.tech), [WhatsApp](https://wa.me/201210447189), or [Telegram](https://t.me/kerodev).
+Open to freelance projects — [email](mailto:kero@kero-dev.tech), [WhatsApp](https://wa.me/201210447189), or [Telegram](https://t.me/kerodev).
 
 ## Currently building
 
@@ -41,7 +40,7 @@ Laravel backend, headless Next.js 16 frontend (React 19, Tailwind CSS 4, ISR wit
 
 | Product | Description |
 |---|---|
-| [SecureVM.io](https://securevm.io) | VPS and dedicated server hosting on WHMCS, self-owned servers |
+| [SecureVM.io](https://securevm.io) | VPS and dedicated server hosting for the Arab market, built on WHMCS and self-managed hardware |
 | [EnvKit](https://envkit.net/) | Local dev stack manager for Windows — [releases](https://github.com/Env-Kit/envkit-releases) |
 | Cointo ([demo](https://cointo.kero-dev.tech/earn)) | GPT/offerwall rewards script built on Laravel |
 | DodoPay Gateway | WHMCS payment gateway module, on the official Marketplace |
@@ -57,6 +56,15 @@ Laravel backend, headless Next.js 16 frontend (React 19, Tailwind CSS 4, ISR wit
 | [Porix](https://porix.org) · [CoinZelo](https://coinzelo.com) · [EarnG](https://earng.net) | Get-Paid-To reward platforms in production |
 | [MegaPower](https://mega-power.net) · [Axial Trading](https://axial-trading.com) | Corporate websites for Egyptian manufacturers |
 
+## Open source
+
+| Repo | Description |
+|---|---|
+| [ScrimBOT](https://github.com/ker00sama-dev/ScrimBOT) | Discord bot for Crossfire PUG matches, built in C# |
+| [AttendanceTracker](https://github.com/ker00sama-dev/AttendanceTracker) | Attendance tracking web app — graduation project |
+| [sign-lang](https://github.com/ker00sama-dev/sign-lang) | Sign language recognition in JavaScript |
+| [Axial-Trading](https://github.com/ker00sama-dev/Axial-Trading) · [frontend-mega-power](https://github.com/ker00sama-dev/frontend-mega-power) | Source for the Axial Trading and MegaPower corporate sites |
+
 ## Tech stack
 
 **Backend** — PHP, Laravel, Node.js, REST APIs, microservices, multi-tenant SaaS, queue workers, event-driven architecture, domain-driven design
@@ -69,14 +77,13 @@ Laravel backend, headless Next.js 16 frontend (React 19, Tailwind CSS 4, ISR wit
 
 **Databases & search** — MySQL, PostgreSQL, MongoDB, Redis, Meilisearch
 
-**Infrastructure & DevOps** — Docker, Nginx, OpenResty/Lua, Linux, CI/CD, GitHub Actions, AWS, Azure, DigitalOcean, Hetzner, Cloudflare Workers & Pages, self-owned dedicated servers
+**Infrastructure & DevOps** — Docker, Nginx, OpenResty/Lua, Linux, CI/CD, GitHub Actions, AWS, Azure, DigitalOcean, Hetzner, Cloudflare Workers & Pages, dedicated server management
 
 **Security** — L4/L7 DDoS mitigation, WAF rules, iptables and sysctl hardening, rate limiting, OAuth2, HMAC-verified webhooks, fraud detection for reward/postback systems
 
 **SEO & web platform** — JSON-LD structured data, sitemaps, ISR with on-demand revalidation, Core Web Vitals
 
 **Ecosystem & integrations** — WHMCS module development, VirtFusion, DHRU Fusion, SMM panels, Spatie packages, Stripe, PayPal, DodoPay, Cloudflare Turnstile, ad-network postback APIs, Discord bots & OAuth
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ker00sama-dev&label=Profile%20views&color=0449C7&style=flat" alt="Profile views" />
