@@ -19,8 +19,9 @@
 
 ## About
 
-Software engineer building web platforms end to end: Laravel backends, Next.js frontends, and the servers they run on. Most of my work is SaaS products, hosting infrastructure, and the WHMCS ecosystem.
+Software engineer building web platforms end to end: Laravel backends, Next.js frontends, and the servers they run on. Most of my work is SaaS products, cloud hosting, DDoS protection, and the WHMCS ecosystem.
 
+- **[ScaleBit](https://www.scalebit.net)** — software development, cloud and security. Building Evorxa, GGProtect and ScaleBit Resilience.
 - **WKS LTD** — Senior Software Engineer.
 - **[Kero-Dev Tech](https://kero-dev.tech)** — where my freelance and product work lives.
 
@@ -28,7 +29,10 @@ Open to freelance projects — [email](mailto:kero@kero-dev.tech), [WhatsApp](ht
 
 ## Currently building
 
-**[EnvKit](https://envkit.net/)** — a local development stack manager for Windows. Services, sites, databases, and PHP versions in one app, built with Electron and React. Downloads are in the [releases repo](https://github.com/Env-Kit/envkit-releases).
+- **[Evorxa](https://evorxa.com)** — public cloud for VPS and VDS servers with NVMe storage and Shield DDoS protection. An AI agent manages servers over Telegram or the dashboard. Comes with a Flutter mobile app and white-label reseller modules for [WHMCS](https://github.com/ScaleBit-Technologies/evorxa-whmcs) and [Paymenter](https://github.com/ScaleBit-Technologies/evorxa-paymenter).
+- **GGProtect** — enterprise web application firewall filtering hostile traffic at the edge across 34 regions, with Lua on OpenResty.
+- **ScaleBit Resilience** — authorized stress testing with an auditor-ready report.
+- **[EnvKit](https://envkit.net/)** — free local development environment for Windows and macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB, PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted `.test` HTTPS, and a built-in MCP server so AI assistants can drive the stack. Built with Electron and React. Downloads in the [releases repo](https://github.com/Env-Kit/envkit-releases) or via the [Homebrew tap](https://github.com/Env-Kit/homebrew-tap).
 
 ## Featured work — KooAds
 
@@ -40,6 +44,9 @@ Laravel backend, headless Next.js 16 frontend (React 19, Tailwind CSS 4, ISR wit
 
 | Product | Description |
 |---|---|
+| [Evorxa](https://evorxa.com) | VPS and VDS cloud hosting with Shield DDoS protection and an AI agent that manages your server |
+| GGProtect | Enterprise WAF across 34 regions |
+| [Damwall](https://damwall.com) | Anti-DDoS software for hosting providers: deploy on your own hardware, protocol-aware filtering, API control, per-node licensing |
 | [SecureVM.io](https://securevm.io) | VPS and dedicated server hosting for the Arab market, built on WHMCS and self-managed hardware |
 | [EnvKit](https://envkit.net/) | Local dev stack manager for Windows — [releases](https://github.com/Env-Kit/envkit-releases) |
 | Cointo ([demo](https://cointo.kero-dev.tech/earn)) | GPT/offerwall rewards script built on Laravel |
@@ -54,6 +61,7 @@ Laravel backend, headless Next.js 16 frontend (React 19, Tailwind CSS 4, ISR wit
 | [Daftar Zain](https://daftarzain.com) | Multi-company accounting ERP (IFRS-compliant), in production |
 | [AdSpiritMedia](https://adspiritmedia.com) · [AdHopeMedia](https://adhopemedia.com) | Performance marketing networks with TypeScript offerwalls |
 | [Porix](https://porix.org) · [CoinZelo](https://coinzelo.com) · [EarnG](https://earng.net) | Get-Paid-To reward platforms in production |
+| [CyberHex](https://cyberhex.io) | Corporate website for a penetration-testing firm |
 | [MegaPower](https://mega-power.net) · [Axial Trading](https://axial-trading.com) | Corporate websites for Egyptian manufacturers |
 
 ## Open source
@@ -62,7 +70,6 @@ Laravel backend, headless Next.js 16 frontend (React 19, Tailwind CSS 4, ISR wit
 |---|---|
 | [ScrimBOT](https://github.com/ker00sama-dev/ScrimBOT) | Discord bot for Crossfire PUG matches, built in C# |
 | [AttendanceTracker](https://github.com/ker00sama-dev/AttendanceTracker) | Attendance tracking web app — graduation project |
-| [sign-lang](https://github.com/ker00sama-dev/sign-lang) | Sign language recognition in JavaScript |
 | [Axial-Trading](https://github.com/ker00sama-dev/Axial-Trading) · [frontend-mega-power](https://github.com/ker00sama-dev/frontend-mega-power) | Source for the Axial Trading and MegaPower corporate sites |
 
 ## Tech stack
@@ -71,7 +78,7 @@ Laravel backend, headless Next.js 16 frontend (React 19, Tailwind CSS 4, ISR wit
 
 **Frontend** — Next.js, React, TypeScript, Inertia.js, Livewire, Filament, Alpine.js, Tailwind CSS, Framer Motion
 
-**Desktop** — Electron, C# Windows applications
+**Desktop & mobile** — Electron, C# Windows applications, Flutter/Dart
 
 **Other languages** — Lua, C/C++
 
@@ -79,11 +86,11 @@ Laravel backend, headless Next.js 16 frontend (React 19, Tailwind CSS 4, ISR wit
 
 **Infrastructure & DevOps** — Docker, Nginx, OpenResty/Lua, Linux, CI/CD, GitHub Actions, AWS, Azure, DigitalOcean, Hetzner, Cloudflare Workers & Pages, dedicated server management
 
-**Security** — L4/L7 DDoS mitigation, WAF rules, iptables and sysctl hardening, rate limiting, OAuth2, HMAC-verified webhooks, fraud detection for reward/postback systems
+**Security** — L4/L7 DDoS mitigation at the edge, WAF rules, iptables and sysctl hardening, rate limiting, OAuth2, HMAC-verified webhooks, fraud detection for reward/postback systems
 
 **SEO & web platform** — JSON-LD structured data, sitemaps, ISR with on-demand revalidation, Core Web Vitals
 
-**Ecosystem & integrations** — WHMCS module development, VirtFusion, DHRU Fusion, SMM panels, Spatie packages, Stripe, PayPal, DodoPay, Cloudflare Turnstile, ad-network postback APIs, Discord bots & OAuth
+**Ecosystem & integrations** — WHMCS and Paymenter module development, VirtFusion, DHRU Fusion, SMM panels, Spatie packages, Stripe, PayPal, DodoPay, Cloudflare Turnstile, ad-network postback APIs, Discord bots & OAuth
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ker00sama-dev&label=Profile%20views&color=0449C7&style=flat" alt="Profile views" />
