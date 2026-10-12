@@ -47,7 +47,6 @@ Laravel backend, headless Next.js 16 frontend (React 19, Tailwind CSS 4, ISR wit
 |---|---|
 | [Evorxa](https://evorxa.com) | VPS and VDS cloud hosting with Shield DDoS protection and an AI agent that manages your server |
 | GGProtect | Enterprise WAF across 34 regions |
-| [Damwall](https://damwall.com) | Anti-DDoS software for hosting providers: deploy on your own hardware, protocol-aware filtering, API control, per-node licensing |
 | [SecureVM.io](https://securevm.io) | VPS and dedicated server hosting for the Arab market, built on WHMCS and self-managed hardware |
 | [EnvKit](https://envkit.net/) | Local dev stack manager for Windows — [releases](https://github.com/Env-Kit/envkit-releases) |
 | Cointo ([demo](https://cointo.kero-dev.tech/earn)) | GPT/offerwall rewards script built on Laravel |
